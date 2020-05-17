@@ -1,10 +1,10 @@
 # PHP Snowball Stemmer extension
-
 (Forked from https://github.com/shabbyrobe/php-stemmer)
 
 ## Version for HHVM
 https://github.com/scharger/hhvm-stemmer
 
+## Description
 This PHP extension wraps the C-language version of the stemmers provided by the
 snowball project. http://snowballstem.org/
 
